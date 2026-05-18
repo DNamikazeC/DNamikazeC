@@ -92,3 +92,6 @@ Enfocado en analítica de datos y cloud computing, con experiencia en desarrollo
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DNamikazeC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DNamikazeC/DNamikazeC/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
