@@ -1,17 +1,18 @@
-<h1 align="center">Hola , soy David Castillo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm David Castillo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-Estudiante de Ingeniería de Software en el Tecnológico de Antioquia (semestre 6), con base en Medellín <img src="https://flagcdn.com/16x12/co.png" alt="Colombia">. 
+Software Engineering student at Tecnológico de Antioquia (6th semester), based in Medellín <img src="https://flagcdn.com/16x12/co.png" alt="Colombia">.
 
-Enfocado en analítica de datos y cloud computing, con experiencia en desarrollo web.
-- 🌱 Actualmente estoy aprendiendo ...
-  - Aws Cloud
-  - Python para datos
-  - DAX para Power BI
-- 👯 I’m looking forward to collaborate on open source projects.
-- Fuera del ámbito tecnológico, 🍿 me encanta ver peliculas, 🖌️ dibujar bocetos de tatto's, 🎵 escuchar música y 🌴 visitar pueblos cercanos.
-- 📫 Ponte en contacto conmigo: <a href="mailto:davidcascua@gmail.com">davidcascua@gmail.com</a>
+Focused on data analytics and cloud computing, with experience in web development.
+
+- 🌱 Currently learning ...
+  - AWS Cloud
+  - Python for data analytics
+  - DAX for Power BI
+- 👯 Looking forward to collaborating on open source projects.
+- Outside of tech, 🍿 I love watching movies, 🖌️ sketching tattoo designs, 🎵 listening to music and 🌴 visiting nearby towns.
+- 📫 Reach me at: <a href="mailto:davidcascua@gmail.com">davidcascua@gmail.com</a>
 
 - <a href="https://www.linkedin.com/in/davidcastilloc">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -27,7 +28,7 @@ Enfocado en analítica de datos y cloud computing, con experiencia en desarrollo
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
 
-<h4> Frameworks & librerías </h4>
+<h4> Frameworks & libraries </h4>
 <h4> Frontend: </h4>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -69,7 +70,7 @@ Enfocado en analítica de datos y cloud computing, con experiencia en desarrollo
 
 </span>
 
-## Mis redes sociales
+## Check out my Social Media
 
 
 <a href="https://www.linkedin.com/in/davidcastilloc">
@@ -84,7 +85,7 @@ Enfocado en analítica de datos y cloud computing, con experiencia en desarrollo
 </a>
 
 
-# 📊 GitHub Stats:
+### 📊 Github stats:
 ![](https://github-readme-stats.shion.dev/api?username=DNamikazeC&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=DNamikazeC&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DNamikazeC&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
