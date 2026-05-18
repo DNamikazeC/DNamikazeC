@@ -82,3 +82,13 @@ Enfocado en analítica de datos y cloud computing, con experiencia en desarrollo
 <a  href="mailto:davidcascua@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=DNamikazeC&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=DNamikazeC&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DNamikazeC&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DNamikazeC&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
