@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm David Castillo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm David Castillo </h1>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 Software Engineering student at Tecnológico de Antioquia (6th semester), based in Medellín <img src="https://flagcdn.com/16x12/co.png" alt="Colombia">.
